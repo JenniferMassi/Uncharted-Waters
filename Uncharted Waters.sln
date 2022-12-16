@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uncharted Waters", "Uncharted Waters.csproj", "{234DAA7E-3045-4029-87B7-9415B45837CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234DAA7E-3045-4029-87B7-9415B45837CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234DAA7E-3045-4029-87B7-9415B45837CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234DAA7E-3045-4029-87B7-9415B45837CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234DAA7E-3045-4029-87B7-9415B45837CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {980F68A4-DBFC-41FF-B7D9-F9486D077D70}
+	EndGlobalSection
+EndGlobal

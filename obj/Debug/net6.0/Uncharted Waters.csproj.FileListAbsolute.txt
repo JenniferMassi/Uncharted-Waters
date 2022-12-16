@@ -1,0 +1,15 @@
+C:\Users\Jenni\source\repos\Uncharted Waters\bin\Debug\net6.0\Uncharted Waters.exe
+C:\Users\Jenni\source\repos\Uncharted Waters\bin\Debug\net6.0\Uncharted Waters.deps.json
+C:\Users\Jenni\source\repos\Uncharted Waters\bin\Debug\net6.0\Uncharted Waters.runtimeconfig.json
+C:\Users\Jenni\source\repos\Uncharted Waters\bin\Debug\net6.0\Uncharted Waters.dll
+C:\Users\Jenni\source\repos\Uncharted Waters\bin\Debug\net6.0\Uncharted Waters.pdb
+C:\Users\Jenni\source\repos\Uncharted Waters\obj\Debug\net6.0\Uncharted Waters.csproj.AssemblyReference.cache
+C:\Users\Jenni\source\repos\Uncharted Waters\obj\Debug\net6.0\Uncharted Waters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenni\source\repos\Uncharted Waters\obj\Debug\net6.0\Uncharted Waters.AssemblyInfoInputs.cache
+C:\Users\Jenni\source\repos\Uncharted Waters\obj\Debug\net6.0\Uncharted Waters.AssemblyInfo.cs
+C:\Users\Jenni\source\repos\Uncharted Waters\obj\Debug\net6.0\Uncharted Waters.csproj.CoreCompileInputs.cache
+C:\Users\Jenni\source\repos\Uncharted Waters\obj\Debug\net6.0\Uncharted Waters.dll
+C:\Users\Jenni\source\repos\Uncharted Waters\obj\Debug\net6.0\refint\Uncharted Waters.dll
+C:\Users\Jenni\source\repos\Uncharted Waters\obj\Debug\net6.0\Uncharted Waters.pdb
+C:\Users\Jenni\source\repos\Uncharted Waters\obj\Debug\net6.0\Uncharted Waters.genruntimeconfig.cache
+C:\Users\Jenni\source\repos\Uncharted Waters\obj\Debug\net6.0\ref\Uncharted Waters.dll
